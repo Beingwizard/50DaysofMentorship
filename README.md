@@ -25,6 +25,7 @@
 #### ✅ **Day 3–4: Personal Audit + Contribution Mapping**
 
 * Review past 12 months of contributions: Create an excel file of your past contributions
+* Write down your current follower/connections over LinkedIn/X/or any platform where you plan to start creating your content.
 * Use this 3-filter test:
 
   * **Microsoft-focused?** (e.g., Azure OpenAI, not general ChatGPT)
