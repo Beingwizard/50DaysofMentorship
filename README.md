@@ -37,9 +37,9 @@
 
 * Intro to stakeholders, where you can speak/collaborate:
 
-  * [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/)
-  * [Azure Developer Community](https://azdev.reskilll.com/)
-  * [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/en-US/studentambassadors)
+  * [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) : we'll be scheduling a session/series at Reactor
+  * [Azure Developer Community](https://azdev.reskilll.com/) : : we'll be scheduling a session/series at ADC events
+  * [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/en-US/studentambassadors) : : we'll be scheduling a session/series for college students
 * Task: Join relevant communities + observe tone/content: Look after local meetups how they are doing, what kinda of sessions usually happen around. 
 
 ---
