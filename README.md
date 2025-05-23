@@ -19,6 +19,7 @@
     ➤ Use this link to find your category: [MVP Technology Structure](https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-technology-structure-0)
 * 🎯 Task: Match your existing skills/contributions to **1 or 2 possible MVP categories**
 * Share your match with the group for feedback, [find MVPs in similar categories](https://mvp.microsoft.com/en-US/search?program=MVP) and see what they are doing.
+* Create a list of 21 topics you can write blog about (mandatory - you don't have to write a blog, just write the topics)
 
 ---
 
