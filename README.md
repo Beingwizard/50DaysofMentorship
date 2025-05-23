@@ -48,6 +48,7 @@
 
 * Define your niche: “I teach devs to build AI apps using Azure OpenAI”
 * Fix LinkedIn headline + GitHub bio + banner
+* I'll help you setup an offline session in your respective city, if you have any leads you can do it yourself. 
 
 ---
 
