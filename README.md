@@ -147,10 +147,10 @@
 
 ---
 
-#### ✅ **Day 48–50: Get Nominated**
+#### ✅ **Day 48–50~: Keep contributing & Get Nominated **
 
+* Keep contributing to the community and come up as a Technical Community Leader (more than an expert)
 * You finalize the nomination document
-* I review and nominate you
-* Final post: Share your 50-day journey + “What MVP means to me”
+* Reach to any of the MVP or Microsoft employee to get yourself nominated
 
 ---
